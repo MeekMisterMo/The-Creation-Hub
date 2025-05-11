@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Mediterranean Broccoli & Cheese Omelette</title>
+    </head>
+    <body>
+    <h1>Breakfast Omelette</h1>
+    <p>I am excited to share my Mediterranean-inspired broccoli and cheese omelette recipe that will transform your breakfast game!</p>
+    <img src= "https://cdn2.egglandsbest.com/assets/images/recipes/_recipeImage/210274/Mediterranean-Broccoli-Cheese-Omelet-3.jpg" alt="The scrumptious omelette"> 
+    <h2>Ingredients</h2>
+    <ul>
+      <li> 2 large 'Eggland's Best' eggs.</li>
+      <li>2 tablespoons of milk.</li>
+      <li>1/4 cup cooked broccoli florets,chopped.</li>
+      <li>2 spoons of crumbled feta cheese.</li>
+      <li>1 tablespoon sun-dried tomatoes (chopped).</li>
+      <li> 1/2 teaspoon of dried oregano.</li>
+      <li> Salt and pepper to taste.</li>
+      <li>1 teaspoon of olive or butter.</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li> In a small bowl, whisk together eggs, milk, oregano, salt, and pepper until well combined. </li>
+      <li> Heat olive oil or butter in a non-stick skillet over medium heat. </li>
+      <li> Pour the egg mixture into the skillet, tilting it to spread evenly. Let it cook undisturbed for about 1-2 minutes or until the edges start to set. </li>
+      <li> When the omelet is about 75% set but still slightly wet on top, carefully distribute your pre-cooked broccoli florets, crumbled feta cheese, and chopped sun-dried tomatoes over one half of the omelette. </li>
+      <li> Using a spatula, gently fold the omelet in half to cover the fillings. Cook for another 1-2 minutes until the cheese melts and the omelet is cooked through. </li>
+      <li> Slide the omelet onto a plate and serve hot. Pair it with a slice of whole-grain toast or a side salad for a complete meal! </li>
+    </ol>
+    </body>
+</html>
